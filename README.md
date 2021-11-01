@@ -11,11 +11,12 @@ Feito usando apenas **HTML**, **CSS** e **Javascript**
 
 ### Página: 
 
+<p align="center">
+<img src="/readme-img/capture.jpg" alt="Layout em foto">
+</p>
+
 <img src="/readme-img/gif.gif" alt="Layout em gif">
 
-<p align="center">
-<img src="/readme-img/capture.jpeg" alt="Layout em foto">
-</p>
 
 
 PS: Para roda-lo utilize algum servidor.

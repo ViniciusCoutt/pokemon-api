@@ -11,10 +11,10 @@ Feito usando apenas **HTML**, **CSS** e **Javascript**
 
 ### Página: 
 
-<img src="/git-img/gif.gif" alt="Layout em gif">
+<img src="/readme-img/gif.gif" alt="Layout em gif">
 
 <p align="center">
-<img src="/git-img/capture.jpeg" alt="Layout em foto">
+<img src="/readme-img/capture.jpeg" alt="Layout em foto">
 </p>
 
 

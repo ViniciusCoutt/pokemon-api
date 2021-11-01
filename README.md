@@ -15,6 +15,8 @@ Feito usando apenas **HTML**, **CSS** e **Javascript**
 <img src="/readme-img/capture.jpg" alt="Layout em foto">
 </p>
 
+<h2 align="center"> </h1>
+
 <img src="/readme-img/gif.gif" alt="Layout em gif">
 
 
